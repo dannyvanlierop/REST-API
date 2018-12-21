@@ -1,0 +1,32 @@
+{
+  "Lights": {
+    "1": {
+      "state": {
+        "on": false,
+        "bri": 0,
+        "hue": 14988,
+        "sat": 141,
+        "effect": "none",
+        "xy": [
+          0.4573,
+          0.41
+        ],
+        "ct": 367,
+        "alert": "none",
+        "colormode": "xy",
+        "reachable": false,
+        "rgb": [
+            "127",
+            "127",
+            "127"
+        ]
+      },
+      "manufacturername": "Philips",
+      "modelid": "LCT001",
+      "name": "Woonkamer Lamp Links",
+      "swversion": "5.105.0.21536",
+      "type": "Extended color light",
+      "uniqueid": "00:17:88:01:00:f7:3b:e5-0b"
+    }
+  }
+}
