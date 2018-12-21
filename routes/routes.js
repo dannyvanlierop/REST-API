@@ -1,6 +1,6 @@
 
 var appRouter = function (app) {
-
+/*
     //Database connection
     var mariadb      = require('mariadb');
     var connection = mariadb.createConnection({
@@ -9,16 +9,16 @@ var appRouter = function (app) {
         password : 'MijnWachtwoord-01',
         database : 'API'
 });
-
+*/
     //connection.connect();
-
+/*
     connection.connect(err => {
         if (err) {
           console.log("not connected due to error: " + err);
         } else {
           console.log("connected ! connection id is " + conn.threadId);
         }});
-    /*
+  
   
   app.use(function(req, res, next){
       res.locals.connection = mysql.createConnection({
