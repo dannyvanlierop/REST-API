@@ -44,6 +44,7 @@ var appRouter = function (app) {
   
   app.get("/api/lights/", function (req, res) {
     res.status(200).send(JSON.stringify(myJSON.Lights));
+    //return lights from DB
   });
 
   app.get("/api/lights/:num", function (req, res) {
